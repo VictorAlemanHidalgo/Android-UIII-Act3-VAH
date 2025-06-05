@@ -1,5 +1,14 @@
 # myapp
-6780-4550
+
+# PANTALLAS
+- Registro
+- ![alt text](image.png)
+- ![alt text](image-1.png)
+- Registrado
+- ![alt text](image-2.png)
+- ![alt text](image-3.png)
+- Registros
+- ![alt text](image-4.png)
 A new Flutter project.
 
 ## Getting Started
